@@ -1,0 +1,2 @@
+O meu número: 5134
+Intento 1: 1254, Acertos: 1, Coincidencias: 2
